@@ -1,0 +1,32 @@
+got answers of these questions :
+1. What is programming language 
+2. why learn c++ instead of other programming languages 
+3.what is an IDE
+4. What are high level and low level languages
+5. what happens after write a code 
+6. what is a compiler
+
+
+* how does a computer process stuff 
+BINARY!!! its all 0's and 1's 
+ for ex:
+0 - 0000
+1 -0001
+2 -0010
+3 -0011
+
+"PROGRAMMING LANGUAGE"
+ helps us communicate with the computer and solve problems using a computer 
+
+
+* Why learn c++ instead of other programming languages 
+1. efficiency 
+2. strong abstraction capabilities
+3. standard template library(STL)
+4. best in resources constrained environment 
+5. strong typing and compile-time checks
+
+*IDE- helps you in writing the code faster and more efficiently and also eun the code move faster.
+
+
+* PROGRAMMING LANGUAGE___complilation________LOW LEVEL LANGUAGE 
